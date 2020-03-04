@@ -34,7 +34,7 @@
   "dependencies": {
     "amqplib": "0.5.x",
     "lodash.assignin": "4.x.x",
-    "uuid": "3.x.x"
+    "uuid": "7.x"
   },
   "devDependencies": {
     "chai": "4.x.x",
